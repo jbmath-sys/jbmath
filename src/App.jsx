@@ -1,10 +1,10 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import Video from "./pages/Video.jsx";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="container-page">
         <header className="flex items-center justify-between mb-6">
           <a href="/" className="flex items-center gap-2">
@@ -23,6 +23,6 @@ export default function App() {
           © {new Date().getFullYear()} JBMATH · Aprende matemáticas paso a paso
         </footer>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
