@@ -1,0 +1,42 @@
+[
+  {
+    "id": "K7y2xPDA4bQ",
+    "titulo": "Sistema de ecuaciones: método de igualación (ejemplo guiado)",
+    "descripcion": "Exploramos paso a paso el método de igualación con un sistema sencillo y ejercicios al final.",
+    "tags": [
+      "Álgebra",
+      "Ecuaciones",
+      "PMIII"
+    ],
+    "duracion": "12:34",
+    "miniatura": "https://img.youtube.com/vi/K7y2xPDA4bQ/hqdefault.jpg",
+    "publicado": "2025-10-01",
+    "playlist": "PMIII"
+  },
+  {
+    "id": "U5BwfqC2Fj0",
+    "titulo": "Derivadas básicas: reglas esenciales",
+    "descripcion": "Regla de la potencia, suma y producto, con ejemplos prácticos.",
+    "tags": [
+      "Cálculo",
+      "Derivadas"
+    ],
+    "duracion": "15:02",
+    "miniatura": "https://img.youtube.com/vi/U5BwfqC2Fj0/hqdefault.jpg",
+    "publicado": "2025-09-15",
+    "playlist": "Cálculo"
+  },
+  {
+    "id": "kXYiU_JCYtU",
+    "titulo": "Probabilidad: espacio muestral y eventos",
+    "descripcion": "Conceptos base con ejercicios rápidos para practicar.",
+    "tags": [
+      "Probabilidad",
+      "Estadística"
+    ],
+    "duracion": "10:18",
+    "miniatura": "https://img.youtube.com/vi/kXYiU_JCYtU/hqdefault.jpg",
+    "publicado": "2025-08-10",
+    "playlist": "Probabilidad"
+  }
+]
